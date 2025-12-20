@@ -5,7 +5,7 @@ const projects = [
     tech: ["React", "Node.js", "MongoDB", "Express"],
     slug: "mern-ecommerce",
     image: "/images/projects/ecom.png",
-    liveUrl: "https://github.com/Hashim333/mern-ecommerce",
+    liveUrl: "https://mern-ecommerce-git-main-muhammed-hashim-alis-projects.vercel.app",
   },
   {
     title: "Todo App",
